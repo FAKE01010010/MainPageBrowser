@@ -1,0 +1,37 @@
+body {
+    background-color: #000000; /* Cambiamos el color a negro */
+}
+
+.youtube,
+.twitter,
+.twitch,
+.reddit,
+.gmail,
+.whatsapp,
+.amazon,
+.netflix {
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+    margin-left: 10px;
+    background-color: #666666; /* Mantenemos el color de fondo gris */
+}
+
+.changelog,
+.nipz58 {
+    text-align: right;
+    position: fixed;
+    bottom: 0;
+    font-size: 18px;
+    color: #949494; /* Cambiamos el color a gris */
+    font-family: Courier New;
+    text-decoration: none;
+}
+
+.changelogs {
+    color: white;
+    font-size: 18px;
+    font-family: Courier New;
+    margin-left: 10px;
+    list-style: square;
+}
